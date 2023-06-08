@@ -1,0 +1,283 @@
+@font-face{
+font-family :UNDERRATED Ultra Bold;
+src :url("fonts/UNDERRATED-UltraBold Personal Use.otf");
+}
+h1{
+	background-color:black;
+	color:white;
+	text-align:justify;
+	font-size:35px;
+	margin-bottom:0;
+	margin-top:0px	;
+	line-height:35px;
+font-family :UNDERRATED Ultra Bold;
+}
+	
+body{
+	background-color:#eceff1;
+}
+
+h2{
+	color:#000000;
+	text-align:justify;
+	font-size:25px;
+	margin-top:20px	;
+	line-height:35px;
+	font-family:Arial, Verdana, sans-serif;
+	text-decoration: underline;
+	margin-left:15px;
+	margin-right:15px;
+}
+
+h3{
+	font-size:30px;
+	text-decoration: underline;
+	font-family:Arial, Verdana, sans-serif;
+}
+.h3{
+	font-size:30px;
+	text-decoration: none;
+	font-family:Arial, Verdana, sans-serif;
+}
+p{
+	text-align:justify;
+	font-size:18px;
+	margin-top:5px	;
+	line-height:35px;
+	font-family:Arial, Verdana, sans-serif;
+	margin-left:15px;
+	margin-right:15px;
+}
+ol li{
+	font-size:17px;
+}
+.img{
+float:left;	
+margin-right:5px;
+margin-left:0;
+margin-right:0;
+margin-top:0;
+
+}
+
+.ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+	background-color:#eceff1;
+	margin-left:36%;
+	margin-top:0;
+	
+	margin-bottom:0;
+
+}
+
+.li {
+	margin-top:0%;
+    
+	COLOR:black;
+	margin-bottom:0px;
+	display: inline-block;
+
+}
+
+.li-a {
+    display: block;
+    padding: 8px;
+    background-color:#eceff1;
+	color:black;
+	font-size:20px;
+	font-family:Arial, Verdana, sans-serif;
+	margin-bottom:0;
+
+}
+.li-a:hover {
+    display: block;
+    padding: 8px;
+    background-color:white;
+	color:black;
+	font-size:20px;
+	font-family:Arial, Verdana, sans-serif;
+	margin-bottom:0;
+
+}
+
+	
+ol{
+		text-align:justify;
+	font-size:15px;
+	margin-top:0px	;
+	line-height:35px;
+	font-family:Arial, Verdana, sans-serif;
+}
+
+.a{
+	text-align:center;
+	color:white; 
+	font-size:25px;
+	font-family:Arial, Verdana, sans-serif;
+	border-bottom-style:solid;
+	margin-top:0;
+		margin-bottom:0;
+		text-decoration: none;
+		margin:auto;
+}
+.l{
+	margin:auto;
+}
+
+
+
+.pe{
+	
+	clear:right;
+	color:gray;
+	background-color:black;
+	margin-top:85px;
+	margin-bottom:0;
+	margin-left:0;
+	text-align:center;
+	font-size:15px;
+	font-family:Arial, Verdana, sans-serif;
+}
+.pe1{
+	
+	clear:right;
+	color:gray;
+	background-color:black;
+	margin-top:40px;
+	margin-bottom:0;
+	margin-left:0;
+	text-align:center;
+	font-size:15px;
+	font-family:Arial, Verdana, sans-serif;
+}
+.pe2{
+	
+	clear:right;
+	color:gray;
+	background-color:black;
+	margin-top:60px;
+	margin-bottom:0;
+	margin-left:0;
+	text-align:center;
+	font-size:15px;
+	font-family:Arial, Verdana, sans-serif;
+}
+.pe3{
+	
+	clear:right;
+	color:gray;
+	background-color:black;
+	margin-top:100px;
+	margin-bottom:0;
+	margin-left:0;
+	text-align:center;
+	font-size:15px;
+	font-family:Arial, Verdana, sans-serif;
+}
+
+.pee{
+	
+	clear:right;
+	color:gray;
+	background-color:black;
+	margin-top:0;
+	margin-bottom:0;
+	margin-left:0;
+	text-align:center;
+	font-size:15px;
+	font-family:Arial, Verdana, sans-serif;
+}
+.pea{
+	margin-top:100000px;
+	clear:right;
+	color:gray;
+	font-family:Arial, Verdana, sans-serif;
+}
+.ad{
+	text-align:center;
+	color:black ; 
+	font-size:25px;
+	font-family:Arial, Verdana, sans-serif;
+	margin-top:0;
+	margin-bottom:0;
+}
+.p1{
+	margin-left:10%;
+	margin-top:0;
+	margin-bottom:0;
+}
+.bola{
+	border-bottom-style:none;
+	margin-left:12%;
+}
+.bola1{
+	border-bottom-style:none;
+	margin-left:9%;
+}
+.bola2{
+	border-bottom-style:none;
+	margin-left:16%;
+}
+.bola3{
+	border-bottom-style:none;
+	margin-left:18%;	
+}
+.bola4{
+	border-bottom-style:none;
+	margin-left:10%;
+}
+.bola5{
+	border-bottom-style:none;
+	margin-left:15%;
+}
+.bola6{
+	border-bottom-style:none;
+	margin-left:11%;
+}
+.bola7{
+	border-bottom-style:none;
+	margin-left:8%;
+}
+.bolaimg{
+	float:left;
+}
+.bolaP{
+	color:black;
+}
+ul{
+	text-align:justify;
+	font-size:18px;
+	margin-top:5px	;
+	line-height:35px;
+	font-family:Arial, Verdana, sans-serif;
+}
+.ttable{
+	background-color:#eceff1;
+		text-align:justify;
+	font-size:18px;
+	margin-top:5px	;
+	line-height:35px;
+	font-family:Arial, Verdana, sans-serif;
+	border-style:solid;
+	border-color:black;
+	margin:auto;
+	margin-bottom:15px;
+	
+}
+.tde{
+	background-color:#d1d1d1;
+}
+form{
+		text-align:justify;
+	font-size:18px;
+	margin-top:5px	;
+	line-height:35px;
+	font-family:Arial, Verdana, sans-serif;
+	
+	
+}
+imput{
+	margin-bottom:15px;
+}
